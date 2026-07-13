@@ -10,3 +10,4 @@
 - crhawley@asu.edu
 
 ![ECOPLAN](https://caitlinrosehawley.weebly.com/uploads/1/3/2/2/132251398/ecoplan_orig.png)
+![image of me](test.png)
