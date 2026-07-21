@@ -15,16 +15,9 @@
 ## Some Favorite Maps
 <embed type="text/html" src="/img2/cu_map.html" width="600" height="850">
 
-<embed type="text/html" src="{{ '/img2/cu_map.html' | relative_url }}" width="600" height="850">
-
 
 ## Plot of Boulder Temperature from 1995-2025
 <embed type="text/html" src="/img2/boulder_plot.html" width="600" height="600">
 
-## Some Favorite Maps
-<iframe src="{{ '/img2/cu_map.html' | relative_url }}" width="100%" height="850" frameborder="0"></iframe>
-
-## Plot of Boulder Temperature from 1995-2025
-<iframe src="{{ '/img2/boulder_plot.html' | relative_url }}" width="100%" height="600" frameborder="0"></iframe>
 
 
