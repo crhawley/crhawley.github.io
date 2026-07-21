@@ -12,6 +12,11 @@
 ![ECOPLAN](https://caitlinrosehawley.weebly.com/uploads/1/3/2/2/132251398/ecoplan_orig.png)
 ![Rwanda](img2/RwandaZoomBackground.JPG)
 
+## Some Favorite Maps
+<embed type="text/html" src="img2/cu_map.html" width="600" height="850">
+
 
 ## Plot of Boulder Temperature from 1995-2025
 <embed type="text/html" src="img2/boulder_plot.html" width="600" height="600">
+
+
