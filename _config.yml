@@ -2,6 +2,8 @@ title: null
 name: null
 logo: img2/RwandaZoomBackground.JPG
 theme:  minima
+include:
+  - img2
 
 # Site-wide settings
 # ------------------
