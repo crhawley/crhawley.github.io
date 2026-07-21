@@ -13,7 +13,7 @@
 ![Rwanda](img2/RwandaZoomBackground.JPG)
 
 ## Some Favorite Maps
-<embed type="text/html" src="/img2/cu_map.html" width="600" height="850">
+<embed type="text/html" src="/img2/cu_map_transparent.html" width="600" height="850">
 
 
 ## Plot of Boulder Temperature from 1995-2025
